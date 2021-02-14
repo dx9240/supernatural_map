@@ -1,0 +1,9 @@
+==WitchAdvisor==
+
+This interactive map collates Rumours and Intrigues of the Hidden World for your Edification. Simply click on a location Pin to find out the Machinations of the Creatures of the Night, the Unseen Workings of the Wild Ones, and the Cryptic Moves of Power.
+
+Currently only available in Southampton.
+
+==How It Was Made==
+
+This interactive map links up generated supernatural facts linked to a database of British placenames, natural features and public houses. The facts are generated to be relevant to the specific kinds of places.
