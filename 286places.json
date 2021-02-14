@@ -1,0 +1,2011 @@
+[
+  {
+    "place": "Ower",
+    "lat": 50.94711,
+    "long": -1.537181,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local warlocks."
+  },
+  {
+    "place": "THE FOREST INN",
+    "lat": 50.896744,
+    "long": -1.512865,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are nymphs."
+  },
+  {
+    "place": "TOTTONIANS RFC LTD",
+    "lat": 50.921003,
+    "long": -1.508073,
+    "type": "pub",
+    "fact": "Skeletons and trolls often meet here to discuss current events."
+  },
+  {
+    "place": "THE TESTWOOD",
+    "lat": 50.931439,
+    "long": -1.504861,
+    "type": "pub",
+    "fact": "Vampires and devils often meet here to perform rituals."
+  },
+  {
+    "place": "THE OLD FARMHOUSE PUBLIC HOUSE",
+    "lat": 50.917314,
+    "long": -1.503275,
+    "type": "pub",
+    "fact": "Deals between golems and werewolves take place in the back room of this place."
+  },
+  {
+    "place": "PLAYERS PUB",
+    "lat": 50.920854,
+    "long": -1.500662,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by satyrs."
+  },
+  {
+    "place": "TOTTON SPORTS CLUB",
+    "lat": 50.917147,
+    "long": -1.499963,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by instagram witches."
+  },
+  {
+    "place": "THE NEW INN",
+    "lat": 50.906462,
+    "long": -1.497432,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by demons."
+  },
+  {
+    "place": "TOTTON CONSERVATIVE CLUB",
+    "lat": 50.919432,
+    "long": -1.489909,
+    "type": "pub",
+    "fact": "This place is frequented by druids."
+  },
+  {
+    "place": "THE KEYS TOTTON",
+    "lat": 50.918608,
+    "long": -1.488509,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by pact makers."
+  },
+  {
+    "place": "THE SALMON LEAP",
+    "lat": 50.923508,
+    "long": -1.488256,
+    "type": "pub",
+    "fact": "The open mic nights put on by creatures of the night are extremely popular here."
+  },
+  {
+    "place": "THE PEG & PARROT",
+    "lat": 50.914973,
+    "long": -1.488009,
+    "type": "pub",
+    "fact": "Deals between golems and werewolves take place in the back room of this place."
+  },
+  {
+    "place": "TOTTON RECREATION CLUB",
+    "lat": 50.914973,
+    "long": -1.488009,
+    "type": "pub",
+    "fact": "Deals between witches and zombies take place in the back room of this place."
+  },
+  {
+    "place": "THE ELEPHANT & CASTLE",
+    "lat": 50.918571,
+    "long": -1.486319,
+    "type": "pub",
+    "fact": "The open mic nights put on by poltergeists are extremely popular here."
+  },
+  {
+    "place": "THE ANCHOR INN",
+    "lat": 50.913355,
+    "long": -1.482009,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by angels."
+  },
+  {
+    "place": "THE KING RUFUS",
+    "lat": 50.909081,
+    "long": -1.479354,
+    "type": "pub",
+    "fact": "The open mic nights put on by sorcerers are extremely popular here."
+  },
+  {
+    "place": "ELING SAILING CLUB",
+    "lat": 50.909861,
+    "long": -1.478933,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are chronomancers."
+  },
+  {
+    "place": "The Ship Inn",
+    "lat": 50.921082,
+    "long": -1.472591,
+    "type": "pub",
+    "fact": "Sometimes chronomancers can be found selling their services here."
+  },
+  {
+    "place": "The Saints",
+    "lat": 50.930846,
+    "long": -1.464199,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by hobgoblins."
+  },
+  {
+    "place": "Bricklayers Arms",
+    "lat": 50.923896,
+    "long": -1.454831,
+    "type": "pub",
+    "fact": "Deals between healers and ghosts take place in the back room of this place."
+  },
+  {
+    "place": "Gala Bingo",
+    "lat": 50.940712,
+    "long": -1.449056,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are spriggans."
+  },
+  {
+    "place": "Mountbatten",
+    "lat": 50.940712,
+    "long": -1.449056,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by fauns."
+  },
+  {
+    "place": "MARCHWOOD YACHT CLUB",
+    "lat": 50.898879,
+    "long": -1.445269,
+    "type": "pub",
+    "fact": "Zombies and fairies often meet here to trade secrets."
+  },
+  {
+    "place": "King George Hotel",
+    "lat": 50.921723,
+    "long": -1.444059,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are pact makers."
+  },
+  {
+    "place": "Warren Social Club",
+    "lat": 50.931734,
+    "long": -1.442559,
+    "type": "pub",
+    "fact": "On Sundays this place is closed to all but golems."
+  },
+  {
+    "place": "Regents Park Hotel",
+    "lat": 50.91611,
+    "long": -1.441821,
+    "type": "pub",
+    "fact": "Wraiths and spriggans often meet here to play tricks on each other."
+  },
+  {
+    "place": "Giddy Bridge",
+    "lat": 50.915312,
+    "long": -1.439055,
+    "type": "pub",
+    "fact": "Sometimes healers can be found selling their services here."
+  },
+  {
+    "place": "Ice House",
+    "lat": 50.927662,
+    "long": -1.437286,
+    "type": "pub",
+    "fact": "Deals between oracles and shamblers take place in the back room of this place."
+  },
+  {
+    "place": "Park Inn",
+    "lat": 50.923432,
+    "long": -1.436668,
+    "type": "pub",
+    "fact": "Werewolves and nymphs often meet here to perform rituals."
+  },
+  {
+    "place": "Shirley And Millbrook Conservative Club",
+    "lat": 50.924719,
+    "long": -1.434945,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by angels."
+  },
+  {
+    "place": "The Shirley Hotel",
+    "lat": 50.923036,
+    "long": -1.434781,
+    "type": "pub",
+    "fact": "This place is frequented by creatures of the darkness."
+  },
+  {
+    "place": "The Griffin",
+    "lat": 50.924743,
+    "long": -1.434419,
+    "type": "pub",
+    "fact": "The open mic nights put on by vampires are extremely popular here."
+  },
+  {
+    "place": "Windsor Castle",
+    "lat": 50.923286,
+    "long": -1.434294,
+    "type": "pub",
+    "fact": "Zombies and spriggans often meet here to make deals with each other."
+  },
+  {
+    "place": "Kings Arms",
+    "lat": 50.923107,
+    "long": -1.432589,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are trolls."
+  },
+  {
+    "place": "The Hummicks",
+    "lat": 50.81442,
+    "long": -1.431922,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of pact makers."
+  },
+  {
+    "place": "Bald Faced Stag",
+    "lat": 50.917896,
+    "long": -1.431685,
+    "type": "pub",
+    "fact": "On Tuesdays this place is closed to all but unicorns."
+  },
+  {
+    "place": "Lordswood",
+    "lat": 50.943306,
+    "long": -1.43135,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by hobgoblins."
+  },
+  {
+    "place": "Shield And Dagger",
+    "lat": 50.926571,
+    "long": -1.431181,
+    "type": "pub",
+    "fact": "Sometimes psychics can be found selling their services here."
+  },
+  {
+    "place": "Santo Lounge",
+    "lat": 50.920427,
+    "long": -1.430701,
+    "type": "pub",
+    "fact": "The open mic nights put on by ghosts are extremely popular here."
+  },
+  {
+    "place": "Freemantle",
+    "lat": 50.912283,
+    "long": -1.429566,
+    "type": "neighbourhood",
+    "fact": "Psychics buy potion ingredients here."
+  },
+  {
+    "place": "Brass Monkey",
+    "lat": 50.91881,
+    "long": -1.429327,
+    "type": "pub",
+    "fact": "Sometimes golems can be found selling their services here."
+  },
+  {
+    "place": "Bright Water Inn",
+    "lat": 50.91881,
+    "long": -1.429327,
+    "type": "pub",
+    "fact": "Sometimes druids can be found selling their services here."
+  },
+  {
+    "place": "Freemantle Arms",
+    "lat": 50.915104,
+    "long": -1.429002,
+    "type": "pub",
+    "fact": "Sometimes druids can be found selling their services here."
+  },
+  {
+    "place": "New Century Bingo",
+    "lat": 50.917811,
+    "long": -1.427233,
+    "type": "pub",
+    "fact": "Sometimes witches can be found selling their services here."
+  },
+  {
+    "place": "Waterloo Arms",
+    "lat": 50.911279,
+    "long": -1.426432,
+    "type": "pub",
+    "fact": "Deals between seers and vampires take place in the back room of this place."
+  },
+  {
+    "place": "Freemantle Hotel",
+    "lat": 50.912733,
+    "long": -1.425959,
+    "type": "pub",
+    "fact": "Sometimes warlocks can be found selling their services here."
+  },
+  {
+    "place": "Stile Inn",
+    "lat": 50.91529,
+    "long": -1.424675,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by necromancers."
+  },
+  {
+    "place": "Wellington Arms",
+    "lat": 50.912732,
+    "long": -1.423996,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are vampires."
+  },
+  {
+    "place": "Key And Anchor",
+    "lat": 50.909351,
+    "long": -1.423952,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are trolls."
+  },
+  {
+    "place": "Pirrie Park Bowling Club",
+    "lat": 50.927548,
+    "long": -1.423244,
+    "type": "pub",
+    "fact": "This place is frequented by unicorns."
+  },
+  {
+    "place": "Malvern Tavern",
+    "lat": 50.932431,
+    "long": -1.423212,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by necromancers."
+  },
+  {
+    "place": "Poveys",
+    "lat": 50.914183,
+    "long": -1.422655,
+    "type": "pub",
+    "fact": "Sometimes curse workers can be found selling their services here."
+  },
+  {
+    "place": "Bassett Lawn Tennis Club",
+    "lat": 50.92527,
+    "long": -1.422589,
+    "type": "pub",
+    "fact": "Ghosts and wild beings often meet here to offer their services."
+  },
+  {
+    "place": "Pig N Whistle",
+    "lat": 50.912522,
+    "long": -1.421424,
+    "type": "pub",
+    "fact": "Sometimes healers can be found selling their services here."
+  },
+  {
+    "place": "Atherley Bowling Club",
+    "lat": 50.919489,
+    "long": -1.419104,
+    "type": "pub",
+    "fact": "The open mic nights put on by druids are extremely popular here."
+  },
+  {
+    "place": "The Osborne",
+    "lat": 50.909839,
+    "long": -1.41901,
+    "type": "pub",
+    "fact": "Deals between people with magical powers and shamblers take place in the back room of this place."
+  },
+  {
+    "place": "Dibden",
+    "lat": 50.869691,
+    "long": -1.418006,
+    "type": "neighbourhood",
+    "fact": "The homes of fauns are marked by cerulean doors."
+  },
+  {
+    "place": "The Bellemoor",
+    "lat": 50.928415,
+    "long": -1.416688,
+    "type": "pub",
+    "fact": "On Saturdays this place is closed to all but trolls."
+  },
+  {
+    "place": "Dibden Purlieu",
+    "lat": 50.855196,
+    "long": -1.414493,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with trolls here."
+  },
+  {
+    "place": "The Winston Hotel",
+    "lat": 50.915284,
+    "long": -1.41449,
+    "type": "pub",
+    "fact": "Sometimes witches can be found selling their services here."
+  },
+  {
+    "place": "Urban Tiger",
+    "lat": 50.902624,
+    "long": -1.413113,
+    "type": "pub",
+    "fact": "Banshees and satyrs often meet here to play tricks on each other."
+  },
+  {
+    "place": "Mo'jive",
+    "lat": 50.901605,
+    "long": -1.412401,
+    "type": "pub",
+    "fact": "The open mic nights put on by demons are extremely popular here."
+  },
+  {
+    "place": "Hythe",
+    "lat": 50.85945,
+    "long": -1.411029,
+    "type": "neighbourhood",
+    "fact": "The homes of wraiths are marked by blue doors."
+  },
+  {
+    "place": "The Encore",
+    "lat": 50.908736,
+    "long": -1.410661,
+    "type": "pub",
+    "fact": "Liches and leprechauns often meet here to drink together."
+  },
+  {
+    "place": "The Fitz",
+    "lat": 50.914625,
+    "long": -1.410402,
+    "type": "pub",
+    "fact": "On Thursdays this place is closed to all but oracles."
+  },
+  {
+    "place": "Banister's Park",
+    "lat": 50.918565,
+    "long": -1.408861,
+    "type": "neighbourhood",
+    "fact": "In spring the humans here are often plagued by dreams of unicorns."
+  },
+  {
+    "place": "Grove House Social Club",
+    "lat": 50.910668,
+    "long": -1.408475,
+    "type": "pub",
+    "fact": "The open mic nights put on by nephilim are extremely popular here."
+  },
+  {
+    "place": "Archers Road Social Club",
+    "lat": 50.916302,
+    "long": -1.407678,
+    "type": "pub",
+    "fact": "The open mic nights put on by ghouls are extremely popular here."
+  },
+  {
+    "place": "Bedford Place",
+    "lat": 50.913432,
+    "long": -1.407504,
+    "type": "neighbourhood",
+    "fact": "In winter the humans here are often plagued by dreams of liches."
+  },
+  {
+    "place": "Yuzu Lounge",
+    "lat": 50.913183,
+    "long": -1.406266,
+    "type": "pub",
+    "fact": "On Mondays this place is closed to all but incubi."
+  },
+  {
+    "place": "Juniper Berry",
+    "lat": 50.901096,
+    "long": -1.40605,
+    "type": "pub",
+    "fact": "Werebears and succubi often meet here to make deals with each other."
+  },
+  {
+    "place": "Popworld",
+    "lat": 50.912633,
+    "long": -1.405946,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are warlocks."
+  },
+  {
+    "place": "Bedfords",
+    "lat": 50.911868,
+    "long": -1.405871,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by dragons."
+  },
+  {
+    "place": "Revolution Southampton",
+    "lat": 50.911868,
+    "long": -1.405871,
+    "type": "pub",
+    "fact": "The open mic nights put on by goblins are extremely popular here."
+  },
+  {
+    "place": "The Red Lion",
+    "lat": 50.911868,
+    "long": -1.405871,
+    "type": "pub",
+    "fact": "Sometimes people with magical powers can be found selling their services here."
+  },
+  {
+    "place": "Duke Of Wellington",
+    "lat": 50.898928,
+    "long": -1.405794,
+    "type": "pub",
+    "fact": "On Wednesdays this place is closed to all but oracles."
+  },
+  {
+    "place": "The Titanic",
+    "lat": 50.900032,
+    "long": -1.405538,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by psychics."
+  },
+  {
+    "place": "Rhino Club",
+    "lat": 50.911165,
+    "long": -1.40551,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are kobolds."
+  },
+  {
+    "place": "Cricketers",
+    "lat": 50.912999,
+    "long": -1.405472,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by people with magical powers."
+  },
+  {
+    "place": "Tap Room",
+    "lat": 50.912999,
+    "long": -1.405472,
+    "type": "pub",
+    "fact": "The open mic nights put on by werebears are extremely popular here."
+  },
+  {
+    "place": "Stage Door",
+    "lat": 50.907351,
+    "long": -1.405189,
+    "type": "pub",
+    "fact": "Sometimes immortals can be found selling their services here."
+  },
+  {
+    "place": "Level 1",
+    "lat": 50.912737,
+    "long": -1.405177,
+    "type": "pub",
+    "fact": "Creatures of the night and succubi often meet here to blackmail each other."
+  },
+  {
+    "place": "The Dancing Man",
+    "lat": 50.896918,
+    "long": -1.405108,
+    "type": "pub",
+    "fact": "Sometimes seers can be found selling their services here."
+  },
+  {
+    "place": "Dirty South Bars Limited",
+    "lat": 50.912376,
+    "long": -1.404911,
+    "type": "pub",
+    "fact": "Sometimes golems can be found selling their services here."
+  },
+  {
+    "place": "Orange Rooms",
+    "lat": 50.912376,
+    "long": -1.404911,
+    "type": "pub",
+    "fact": "Liches and satyrs often meet here to blackmail each other."
+  },
+  {
+    "place": "Yates's",
+    "lat": 50.906531,
+    "long": -1.404858,
+    "type": "pub",
+    "fact": "The open mic nights put on by werewolves are extremely popular here."
+  },
+  {
+    "place": "Slug And Lettuce",
+    "lat": 50.906009,
+    "long": -1.404765,
+    "type": "pub",
+    "fact": "Deals between psychics and zombies take place in the back room of this place."
+  },
+  {
+    "place": "Baizz",
+    "lat": 50.899173,
+    "long": -1.404596,
+    "type": "pub",
+    "fact": "The open mic nights put on by nymphs are extremely popular here."
+  },
+  {
+    "place": "Seymours Wine Bar",
+    "lat": 50.912814,
+    "long": -1.404479,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by satyrs."
+  },
+  {
+    "place": "Aqua Lounge",
+    "lat": 50.909056,
+    "long": -1.40447,
+    "type": "pub",
+    "fact": "The open mic nights put on by wraiths are extremely popular here."
+  },
+  {
+    "place": "Cafe Parfait Ltd",
+    "lat": 50.909056,
+    "long": -1.40447,
+    "type": "pub",
+    "fact": "The open mic nights put on by skeletons are extremely popular here."
+  },
+  {
+    "place": "Goblets Wine Bar",
+    "lat": 50.909056,
+    "long": -1.40447,
+    "type": "pub",
+    "fact": "Spectres and redcaps often meet here to offer their services."
+  },
+  {
+    "place": "Junk",
+    "lat": 50.911789,
+    "long": -1.404407,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are necromancers."
+  },
+  {
+    "place": "Kellys",
+    "lat": 50.911789,
+    "long": -1.404407,
+    "type": "pub",
+    "fact": "Deals between psychics and creatures of the darkness take place in the back room of this place."
+  },
+  {
+    "place": "Frog and Parrot",
+    "lat": 50.907517,
+    "long": -1.404248,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are redcaps."
+  },
+  {
+    "place": "Spitfire",
+    "lat": 50.907517,
+    "long": -1.404248,
+    "type": "pub",
+    "fact": "Deals between dark witches and creatures of the dusk take place in the back room of this place."
+  },
+  {
+    "place": "Ebb \\\\& Flow",
+    "lat": 50.905502,
+    "long": -1.40416,
+    "type": "pub",
+    "fact": "On Wednesdays this place is closed to all but selkies."
+  },
+  {
+    "place": "Oasis Bar",
+    "lat": 50.900097,
+    "long": -1.404101,
+    "type": "pub",
+    "fact": "The open mic nights put on by nymphs are extremely popular here."
+  },
+  {
+    "place": "For Your Eyes Only",
+    "lat": 50.899809,
+    "long": -1.40409,
+    "type": "pub",
+    "fact": "The open mic nights put on by angels are extremely popular here."
+  },
+  {
+    "place": "Varsity",
+    "lat": 50.912299,
+    "long": -1.40393,
+    "type": "pub",
+    "fact": "Deals between sorcerers and banshees take place in the back room of this place."
+  },
+  {
+    "place": "Standing Order",
+    "lat": 50.900688,
+    "long": -1.403667,
+    "type": "pub",
+    "fact": "On Fridays this place is closed to all but leprechauns."
+  },
+  {
+    "place": "Platform Tavern",
+    "lat": 50.896408,
+    "long": -1.403593,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by psychics."
+  },
+  {
+    "place": "Red Lion",
+    "lat": 50.899051,
+    "long": -1.403488,
+    "type": "pub",
+    "fact": "Spectres and nymphs often meet here to play cards."
+  },
+  {
+    "place": "The Firehouse",
+    "lat": 50.904265,
+    "long": -1.403137,
+    "type": "pub",
+    "fact": "Zombies and satyrs often meet here to blackmail each other."
+  },
+  {
+    "place": "Voodoo Lounge",
+    "lat": 50.904265,
+    "long": -1.403137,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are immortals."
+  },
+  {
+    "place": "Marshals",
+    "lat": 50.912698,
+    "long": -1.402901,
+    "type": "pub",
+    "fact": "On Tuesdays this place is closed to all but selkies."
+  },
+  {
+    "place": "Maverick's",
+    "lat": 50.902765,
+    "long": -1.401862,
+    "type": "pub",
+    "fact": "This place is frequented by ghosts."
+  },
+  {
+    "place": "Highfield Hall Bar",
+    "lat": 50.92994,
+    "long": -1.401827,
+    "type": "pub",
+    "fact": "The open mic nights put on by psychics are extremely popular here."
+  },
+  {
+    "place": "The Alexandra",
+    "lat": 50.912421,
+    "long": -1.401497,
+    "type": "pub",
+    "fact": "Deals between emotional vampires and skeletons take place in the back room of this place."
+  },
+  {
+    "place": "Bassett",
+    "lat": 50.942986,
+    "long": -1.401435,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with satyrs here."
+  },
+  {
+    "place": "Buttsash",
+    "lat": 50.851351,
+    "long": -1.401187,
+    "type": "neighbourhood",
+    "fact": "Curse workers buy potion ingredients here."
+  },
+  {
+    "place": "Angel Inn",
+    "lat": 50.905926,
+    "long": -1.400926,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are necromancers."
+  },
+  {
+    "place": "Southampton Dockers Sports Social & Welfare Club",
+    "lat": 50.89899,
+    "long": -1.400474,
+    "type": "pub",
+    "fact": "Deals between golems and spectres take place in the back room of this place."
+  },
+  {
+    "place": "The Crown Inn",
+    "lat": 50.932208,
+    "long": -1.400389,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are wizards."
+  },
+  {
+    "place": "Solent Students Union - Catering",
+    "lat": 50.907757,
+    "long": -1.400177,
+    "type": "pub",
+    "fact": "The open mic nights put on by immortals are extremely popular here."
+  },
+  {
+    "place": "Bevois Mount",
+    "lat": 50.921216,
+    "long": -1.399865,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by nephilim."
+  },
+  {
+    "place": "Kaos Night Club",
+    "lat": 50.912359,
+    "long": -1.399848,
+    "type": "pub",
+    "fact": "The open mic nights put on by devils are extremely popular here."
+  },
+  {
+    "place": "Bevois Town",
+    "lat": 50.916809,
+    "long": -1.399637,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by creatures of the darkness."
+  },
+  {
+    "place": "Lennons",
+    "lat": 50.913337,
+    "long": -1.399479,
+    "type": "pub",
+    "fact": "Sometimes warlocks can be found selling their services here."
+  },
+  {
+    "place": "Southampton Seafarers Centre",
+    "lat": 50.898032,
+    "long": -1.399449,
+    "type": "pub",
+    "fact": "Deals between life workers and vampires take place in the back room of this place."
+  },
+  {
+    "place": "The Edge Night Club",
+    "lat": 50.90974,
+    "long": -1.399412,
+    "type": "pub",
+    "fact": "This place is frequented by ghosts."
+  },
+  {
+    "place": "Banana Wharf",
+    "lat": 50.899453,
+    "long": -1.399402,
+    "type": "pub",
+    "fact": "Liches and devils often meet here to sell their wares."
+  },
+  {
+    "place": "Unit Club",
+    "lat": 50.911331,
+    "long": -1.399363,
+    "type": "pub",
+    "fact": "On Thursdays this place is closed to all but energy witches."
+  },
+  {
+    "place": "White Star Tavern",
+    "lat": 50.898696,
+    "long": -1.399142,
+    "type": "pub",
+    "fact": "Deals between pact makers and zombies take place in the back room of this place."
+  },
+  {
+    "place": "Lime Bar Ltd",
+    "lat": 50.919233,
+    "long": -1.398891,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by seers."
+  },
+  {
+    "place": "Royal Oak",
+    "lat": 50.902111,
+    "long": -1.398742,
+    "type": "pub",
+    "fact": "Deals between people with magical powers and zombies take place in the back room of this place."
+  },
+  {
+    "place": "The Hurdles",
+    "lat": 50.914066,
+    "long": -1.39845,
+    "type": "pub",
+    "fact": "Deals between pact makers and liches take place in the back room of this place."
+  },
+  {
+    "place": "The Grapes",
+    "lat": 50.897898,
+    "long": -1.397972,
+    "type": "pub",
+    "fact": "Deals between energy witches and vampires take place in the back room of this place."
+  },
+  {
+    "place": "The Rockstone",
+    "lat": 50.915135,
+    "long": -1.397636,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by devils."
+  },
+  {
+    "place": "Nichols Town",
+    "lat": 50.908166,
+    "long": -1.397615,
+    "type": "neighbourhood",
+    "fact": "Poltergeists haunt this area during rainy spring nights."
+  },
+  {
+    "place": "The Guide Dog Alehouse Ltd",
+    "lat": 50.917939,
+    "long": -1.397201,
+    "type": "pub",
+    "fact": "The open mic nights put on by liches are extremely popular here."
+  },
+  {
+    "place": "Kingsland Tavern",
+    "lat": 50.905483,
+    "long": -1.396921,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are hobgoblins."
+  },
+  {
+    "place": "Flying Dutchman",
+    "lat": 50.898459,
+    "long": -1.396898,
+    "type": "pub",
+    "fact": "On Fridays this place is closed to all but immortals."
+  },
+  {
+    "place": "London Hotel",
+    "lat": 50.898459,
+    "long": -1.396898,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are vampires."
+  },
+  {
+    "place": "The Stile",
+    "lat": 50.937675,
+    "long": -1.396818,
+    "type": "pub",
+    "fact": "This place is frequented by necromancers."
+  },
+  {
+    "place": "ISOBAR",
+    "lat": 50.90701,
+    "long": -1.396731,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by celestials."
+  },
+  {
+    "place": "Highfield",
+    "lat": 50.93571593,
+    "long": -1.396677681,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of rune witches."
+  },
+  {
+    "place": "Inferno Club",
+    "lat": 50.915705,
+    "long": -1.396533,
+    "type": "pub",
+    "fact": "The open mic nights put on by ghosts are extremely popular here."
+  },
+  {
+    "place": "Joiners Arms",
+    "lat": 50.904464,
+    "long": -1.396408,
+    "type": "pub",
+    "fact": "The open mic nights put on by hobgoblins are extremely popular here."
+  },
+  {
+    "place": "Hut Hill",
+    "lat": 50.959865,
+    "long": -1.396235,
+    "type": "neighbourhood",
+    "fact": "The homes of wizards are marked by indigo doors."
+  },
+  {
+    "place": "Dungeon",
+    "lat": 50.916421,
+    "long": -1.395898,
+    "type": "pub",
+    "fact": "On Tuesdays this place is closed to all but immortals."
+  },
+  {
+    "place": "The Shooting Star",
+    "lat": 50.916421,
+    "long": -1.395898,
+    "type": "pub",
+    "fact": "This place is frequented by witches."
+  },
+  {
+    "place": "Arlott Bar",
+    "lat": 50.934198,
+    "long": -1.395696,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by witches."
+  },
+  {
+    "place": "Bar 2 (Level 2)",
+    "lat": 50.934198,
+    "long": -1.395696,
+    "type": "pub",
+    "fact": "Sometimes immortals can be found selling their services here."
+  },
+  {
+    "place": "Gordon Arms",
+    "lat": 50.923227,
+    "long": -1.395525,
+    "type": "pub",
+    "fact": "Phantoms and redcaps often meet here to make deals with each other."
+  },
+  {
+    "place": "Clowns & Jesters Nightclub",
+    "lat": 50.917974,
+    "long": -1.395252,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are seers."
+  },
+  {
+    "place": "The Hobbit",
+    "lat": 50.917974,
+    "long": -1.395252,
+    "type": "pub",
+    "fact": "Sometimes druids can be found selling their services here."
+  },
+  {
+    "place": "Richmond Inn",
+    "lat": 50.922154,
+    "long": -1.395055,
+    "type": "pub",
+    "fact": "Sometimes golems can be found selling their services here."
+  },
+  {
+    "place": "King Alfred",
+    "lat": 50.907584,
+    "long": -1.394661,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by pixies."
+  },
+  {
+    "place": "The Admiral Sir Lucius Curtis",
+    "lat": 50.896879,
+    "long": -1.393762,
+    "type": "pub",
+    "fact": "Ghouls and centaurs often meet here to make deals with each other."
+  },
+  {
+    "place": "Diment McDonald Dance School",
+    "lat": 50.921175,
+    "long": -1.393588,
+    "type": "pub",
+    "fact": "This place is frequented by liches."
+  },
+  {
+    "place": "Varsity (2)",
+    "lat": 50.924691,
+    "long": -1.393585,
+    "type": "pub",
+    "fact": "Vampires and celestials often meet here to play tricks on each other."
+  },
+  {
+    "place": "Old Farmhouse",
+    "lat": 50.914767,
+    "long": -1.392576,
+    "type": "pub",
+    "fact": "On Tuesdays this place is closed to all but incubi."
+  },
+  {
+    "place": "Bevois Valley",
+    "lat": 50.916502,
+    "long": -1.392528,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of shadow witches."
+  },
+  {
+    "place": "Little Holbury",
+    "lat": 50.835837,
+    "long": -1.392013,
+    "type": "neighbourhood",
+    "fact": "Banshees haunt this area during breezy spring nights."
+  },
+  {
+    "place": "The Mitre",
+    "lat": 50.926683,
+    "long": -1.390998,
+    "type": "pub",
+    "fact": "Sometimes psychics can be found selling their services here."
+  },
+  {
+    "place": "Trago Lounge",
+    "lat": 50.926683,
+    "long": -1.390998,
+    "type": "pub",
+    "fact": "Sometimes oracles can be found selling their services here."
+  },
+  {
+    "place": "Chapel Arms",
+    "lat": 50.900244,
+    "long": -1.390746,
+    "type": "pub",
+    "fact": "Deals between warlocks and ghosts take place in the back room of this place."
+  },
+  {
+    "place": "Northam Social Club",
+    "lat": 50.910533,
+    "long": -1.389289,
+    "type": "pub",
+    "fact": "This place is frequented by phantoms."
+  },
+  {
+    "place": "Crosshouse",
+    "lat": 50.900029,
+    "long": -1.389187,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of zombies."
+  },
+  {
+    "place": "Row Down",
+    "lat": 50.815498,
+    "long": -1.389154,
+    "type": "neighbourhood",
+    "fact": "At night devils roam the streets here."
+  },
+  {
+    "place": "Hardley",
+    "lat": 50.840585,
+    "long": -1.388685,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with leprechauns here."
+  },
+  {
+    "place": "The Dolphin",
+    "lat": 50.922588,
+    "long": -1.388548,
+    "type": "pub",
+    "fact": "The open mic nights put on by druids are extremely popular here."
+  },
+  {
+    "place": "Frostlane",
+    "lat": 50.8556,
+    "long": -1.388063,
+    "type": "neighbourhood",
+    "fact": "The homes of celestials are marked by green doors."
+  },
+  {
+    "place": "Roughdown",
+    "lat": 50.819843,
+    "long": -1.387607,
+    "type": "neighbourhood",
+    "fact": "The homes of poltergeists are marked by gray doors."
+  },
+  {
+    "place": "Prince Of Wales",
+    "lat": 50.91145,
+    "long": -1.38757,
+    "type": "pub",
+    "fact": "Deals between oracles and wraiths take place in the back room of this place."
+  },
+  {
+    "place": "South Western Arms",
+    "lat": 50.922006,
+    "long": -1.387431,
+    "type": "pub",
+    "fact": "Sometimes witches can be found selling their services here."
+  },
+  {
+    "place": "Portswood",
+    "lat": 50.926997,
+    "long": -1.387411,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local healers."
+  },
+  {
+    "place": "Drummond Arms",
+    "lat": 50.930828,
+    "long": -1.387358,
+    "type": "pub",
+    "fact": "This place is frequented by werebears."
+  },
+  {
+    "place": "Waggoners Arms",
+    "lat": 50.927625,
+    "long": -1.387087,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by witches."
+  },
+  {
+    "place": "Talking Heads",
+    "lat": 50.928372,
+    "long": -1.385583,
+    "type": "pub",
+    "fact": "On Sundays this place is closed to all but rune witches."
+  },
+  {
+    "place": "Polish Social Club",
+    "lat": 50.929334,
+    "long": -1.385514,
+    "type": "pub",
+    "fact": "The open mic nights put on by werewolves are extremely popular here."
+  },
+  {
+    "place": "St Denys",
+    "lat": 50.92275,
+    "long": -1.385205,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with tainted beings here."
+  },
+  {
+    "place": "Holbury",
+    "lat": 50.82896,
+    "long": -1.383867,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with trolls here."
+  },
+  {
+    "place": "Brook Inn",
+    "lat": 50.93258,
+    "long": -1.383692,
+    "type": "pub",
+    "fact": "Deals between immortals and banshees take place in the back room of this place."
+  },
+  {
+    "place": "Browns",
+    "lat": 50.911707,
+    "long": -1.383399,
+    "type": "pub",
+    "fact": "Sometimes witches can be found selling their services here."
+  },
+  {
+    "place": "Conservative Club",
+    "lat": 50.925168,
+    "long": -1.383207,
+    "type": "pub",
+    "fact": "Werebears and pixies often meet here to perform rituals."
+  },
+  {
+    "place": "The Yacht Tavern",
+    "lat": 50.901123,
+    "long": -1.381789,
+    "type": "pub",
+    "fact": "This place is frequented by psychics."
+  },
+  {
+    "place": "Bitterne Park",
+    "lat": 50.917284,
+    "long": -1.380455,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local pact makers."
+  },
+  {
+    "place": "Riverside Club",
+    "lat": 50.92517,
+    "long": -1.380205,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by sorcerers."
+  },
+  {
+    "place": "Swaythling Working Mens Club",
+    "lat": 50.937138,
+    "long": -1.38016,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by wizards."
+  },
+  {
+    "place": "Ship Inn",
+    "lat": 50.894513,
+    "long": -1.380071,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by healers."
+  },
+  {
+    "place": "Woolston Social Club",
+    "lat": 50.897327,
+    "long": -1.379906,
+    "type": "pub",
+    "fact": "The open mic nights put on by talking owls are extremely popular here."
+  },
+  {
+    "place": "Bitterne Manor",
+    "lat": 50.917216,
+    "long": -1.379417,
+    "type": "neighbourhood",
+    "fact": "The homes of satyrs are marked by white doors."
+  },
+  {
+    "place": "North Stoneham",
+    "lat": 50.953032,
+    "long": -1.379239,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local druids."
+  },
+  {
+    "place": "Boiler House",
+    "lat": 50.937481,
+    "long": -1.376981,
+    "type": "pub",
+    "fact": "Sometimes people with magical powers can be found selling their services here."
+  },
+  {
+    "place": "Bitterne Park Social Club",
+    "lat": 50.926258,
+    "long": -1.376847,
+    "type": "pub",
+    "fact": "This place is frequented by necromancers."
+  },
+  {
+    "place": "Bitterne Park Hotel",
+    "lat": 50.923336,
+    "long": -1.375321,
+    "type": "pub",
+    "fact": "Poltergeists and angels often meet here to drink together."
+  },
+  {
+    "place": "Connaught Hall Bar",
+    "lat": 50.938237,
+    "long": -1.375306,
+    "type": "pub",
+    "fact": "On Thursdays this place is closed to all but instagram witches."
+  },
+  {
+    "place": "Station Hotel",
+    "lat": 50.919845,
+    "long": -1.374855,
+    "type": "pub",
+    "fact": "On Mondays this place is closed to all but celestials."
+  },
+  {
+    "place": "Swaythling",
+    "lat": 50.939334,
+    "long": -1.373729,
+    "type": "neighbourhood",
+    "fact": "The homes of wraiths are marked by scarlet doors."
+  },
+  {
+    "place": "Fleming Arms",
+    "lat": 50.942291,
+    "long": -1.373316,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by kobolds."
+  },
+  {
+    "place": "Peartree Inn",
+    "lat": 50.904189,
+    "long": -1.373145,
+    "type": "pub",
+    "fact": "Sometimes wizards can be found selling their services here."
+  },
+  {
+    "place": "The Cricketrs Arms",
+    "lat": 50.897298,
+    "long": -1.372811,
+    "type": "pub",
+    "fact": "On Wednesdays this place is closed to all but imps."
+  },
+  {
+    "place": "The Obelisk Pub",
+    "lat": 50.893936,
+    "long": -1.371278,
+    "type": "pub",
+    "fact": "The open mic nights put on by wizards are extremely popular here."
+  },
+  {
+    "place": "The Hop Inn",
+    "lat": 50.932628,
+    "long": -1.370941,
+    "type": "pub",
+    "fact": "On Wednesdays this place is closed to all but light witches."
+  },
+  {
+    "place": "Royal British Legion",
+    "lat": 50.904725,
+    "long": -1.370834,
+    "type": "pub",
+    "fact": "Spectres and devils often meet here to trade secrets."
+  },
+  {
+    "place": "Itchen",
+    "lat": 50.902355,
+    "long": -1.369958,
+    "type": "neighbourhood",
+    "fact": "The homes of sorcerers are marked by orange doors."
+  },
+  {
+    "place": "Woolston Trade And Labour Club",
+    "lat": 50.899994,
+    "long": -1.368963,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are energy witches."
+  },
+  {
+    "place": "Woolston And Sholing Conservative Club",
+    "lat": 50.893923,
+    "long": -1.368832,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are creatures of the dusk."
+  },
+  {
+    "place": "Eastleigh",
+    "lat": 50.972138,
+    "long": -1.368687,
+    "type": "neighbourhood",
+    "fact": "In autumn the humans here are often plagued by dreams of creatures of the night."
+  },
+  {
+    "place": "Blackfield",
+    "lat": 50.814041,
+    "long": -1.368663,
+    "type": "neighbourhood",
+    "fact": "Warlocks buy potion ingredients here."
+  },
+  {
+    "place": "Merry Oak",
+    "lat": 50.908102,
+    "long": -1.368459,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local witches."
+  },
+  {
+    "place": "Woolston And District Bowling Club",
+    "lat": 50.894337,
+    "long": -1.367191,
+    "type": "pub",
+    "fact": "The open mic nights put on by phantoms are extremely popular here."
+  },
+  {
+    "place": "Woolston Bowling Club",
+    "lat": 50.894337,
+    "long": -1.367191,
+    "type": "pub",
+    "fact": "On Sundays this place is closed to all but seers."
+  },
+  {
+    "place": "The Swan",
+    "lat": 50.896057,
+    "long": -1.364324,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by spriggans."
+  },
+  {
+    "place": "Bitterne",
+    "lat": 50.916797,
+    "long": -1.363362,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by vampires."
+  },
+  {
+    "place": "Midanbury",
+    "lat": 50.924346,
+    "long": -1.362548,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by sorcerers."
+  },
+  {
+    "place": "Millers Pond",
+    "lat": 50.898082,
+    "long": -1.361396,
+    "type": "pub",
+    "fact": "On Saturdays this place is closed to all but goblins."
+  },
+  {
+    "place": "Robin Hood",
+    "lat": 50.904127,
+    "long": -1.360204,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by kobolds."
+  },
+  {
+    "place": "Red Lion",
+    "lat": 50.914219,
+    "long": -1.35897,
+    "type": "pub",
+    "fact": "Werewolves and spriggans often meet here to perform rituals."
+  },
+  {
+    "place": "Fox & Hounds",
+    "lat": 50.916816,
+    "long": -1.357043,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by witches."
+  },
+  {
+    "place": "Spike Islander",
+    "lat": 50.902786,
+    "long": -1.356653,
+    "type": "pub",
+    "fact": "The open mic nights put on by healers are extremely popular here."
+  },
+  {
+    "place": "The White Swan",
+    "lat": 50.937719,
+    "long": -1.356185,
+    "type": "pub",
+    "fact": "Deals between emotional vampires and skeletons take place in the back room of this place."
+  },
+  {
+    "place": "Bitterne Conservative Club",
+    "lat": 50.917345,
+    "long": -1.355101,
+    "type": "pub",
+    "fact": "Ghosts and angels often meet here to sell their wares."
+  },
+  {
+    "place": "The Humble Plum",
+    "lat": 50.916261,
+    "long": -1.354248,
+    "type": "pub",
+    "fact": "Vampires and celestials often meet here to gamble."
+  },
+  {
+    "place": "Chamberlayne Arms",
+    "lat": 50.905185,
+    "long": -1.35295,
+    "type": "pub",
+    "fact": "Banshees and succubi often meet here to reminisce."
+  },
+  {
+    "place": "TWO BROTHERS",
+    "lat": 50.932986,
+    "long": -1.352309,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by seers."
+  },
+  {
+    "place": "Sholing",
+    "lat": 50.903328,
+    "long": -1.350746,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local immortals."
+  },
+  {
+    "place": "Southampton",
+    "lat": 50.930106,
+    "long": -1.350459,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with leprechauns here."
+  },
+  {
+    "place": "Netley",
+    "lat": 50.876642,
+    "long": -1.346498,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of warlocks."
+  },
+  {
+    "place": "Exford Arms",
+    "lat": 50.917647,
+    "long": -1.344712,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by imps."
+  },
+  {
+    "place": "THE MASTER BUILDER",
+    "lat": 50.929588,
+    "long": -1.344487,
+    "type": "pub",
+    "fact": "Sometimes necromancers can be found selling their services here."
+  },
+  {
+    "place": "Sprat's Down",
+    "lat": 50.812651,
+    "long": -1.343431,
+    "type": "neighbourhood",
+    "fact": "Chronomancers buy potion ingredients here."
+  },
+  {
+    "place": "Butlocks Heath",
+    "lat": 50.880085,
+    "long": -1.343109,
+    "type": "neighbourhood",
+    "fact": "Poltergeists haunt this area during breezy spring nights."
+  },
+  {
+    "place": "Hound",
+    "lat": 50.87807,
+    "long": -1.343024,
+    "type": "neighbourhood",
+    "fact": "Humans can buy weapons against golems here."
+  },
+  {
+    "place": "Royal British Legion",
+    "lat": 50.91259,
+    "long": -1.342436,
+    "type": "pub",
+    "fact": "Deals between wizards and skeletons take place in the back room of this place."
+  },
+  {
+    "place": "Ashlett",
+    "lat": 50.82729,
+    "long": -1.341578,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by nephilim."
+  },
+  {
+    "place": "Gala Leisure Ltd",
+    "lat": 50.906493,
+    "long": -1.340999,
+    "type": "pub",
+    "fact": "Poltergeists and leprechauns often meet here to make deals with each other."
+  },
+  {
+    "place": "The Bitterne Pub",
+    "lat": 50.914453,
+    "long": -1.336492,
+    "type": "pub",
+    "fact": "Sometimes life witches can be found selling their services here."
+  },
+  {
+    "place": "WEST END BREWERY",
+    "lat": 50.927966,
+    "long": -1.336001,
+    "type": "pub",
+    "fact": "On Saturdays this place is closed to all but seers."
+  },
+  {
+    "place": "Hare and Hounds",
+    "lat": 50.920144,
+    "long": -1.334647,
+    "type": "pub",
+    "fact": "This place is frequented by ghosts."
+  },
+  {
+    "place": "Bishopstoke",
+    "lat": 50.966362,
+    "long": -1.334204,
+    "type": "neighbourhood",
+    "fact": "Humans can buy weapons against immortals here."
+  },
+  {
+    "place": "The Hinkler",
+    "lat": 50.906837,
+    "long": -1.33185,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are wraiths."
+  },
+  {
+    "place": "Old Netley",
+    "lat": 50.889693,
+    "long": -1.324918,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with wild beings here."
+  },
+  {
+    "place": "Hamble-le-Rice",
+    "lat": 50.860779,
+    "long": -1.324341,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of curse witches."
+  },
+  {
+    "place": "Netley Common",
+    "lat": 50.902807,
+    "long": -1.322311,
+    "type": "neighbourhood",
+    "fact": "Phantoms haunt this area during icy autumn nights."
+  },
+  {
+    "place": "Calshot",
+    "lat": 50.811345,
+    "long": -1.32108,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by zombies."
+  },
+  {
+    "place": "Hamble",
+    "lat": 50.863045,
+    "long": -1.319619,
+    "type": "neighbourhood",
+    "fact": "In summer the humans here are often plagued by dreams of trolls."
+  },
+  {
+    "place": "Stoke Park Wood",
+    "lat": 50.971397,
+    "long": -1.318465,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local psychics."
+  },
+  {
+    "place": "SOUTHAMPTON ARMS",
+    "lat": 50.93355,
+    "long": -1.317222,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by angels."
+  },
+  {
+    "place": "Bursledon",
+    "lat": 50.884784,
+    "long": -1.31582,
+    "type": "neighbourhood",
+    "fact": "Phantoms haunt this area during rainy autumn nights."
+  },
+  {
+    "place": "Lowford",
+    "lat": 50.890809,
+    "long": -1.315803,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by spectres."
+  },
+  {
+    "place": "SOUTHERN PARISH CON CLUB",
+    "lat": 50.91151,
+    "long": -1.315724,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are people with magical powers."
+  },
+  {
+    "place": "Crowsport",
+    "lat": 50.861473,
+    "long": -1.312396,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local druids."
+  },
+  {
+    "place": "Oak Hill",
+    "lat": 50.89031,
+    "long": -1.308915,
+    "type": "neighbourhood",
+    "fact": "Spectres haunt this area during warm winter nights."
+  },
+  {
+    "place": "HEDGE END CLUB LIMITED",
+    "lat": 50.908568,
+    "long": -1.306408,
+    "type": "pub",
+    "fact": "Deals between golems and spectres take place in the back room of this place."
+  },
+  {
+    "place": "Hedge End",
+    "lat": 50.918671,
+    "long": -1.305721,
+    "type": "neighbourhood",
+    "fact": "Humans can buy weapons against vampires here."
+  },
+  {
+    "place": "Serendipity Centre",
+    "lat": 50.903907,
+    "long": -1.304302,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by trolls."
+  },
+  {
+    "place": "Wildern",
+    "lat": 50.91969,
+    "long": -1.303145,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local healers."
+  },
+  {
+    "place": "Shamblehurst",
+    "lat": 50.924703,
+    "long": -1.302216,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with spriggans here."
+  },
+  {
+    "place": "THE BARLEYCORN",
+    "lat": 50.914248,
+    "long": -1.299823,
+    "type": "pub",
+    "fact": "The open mic nights put on by changelings are extremely popular here."
+  },
+  {
+    "place": "Warsash",
+    "lat": 50.85455,
+    "long": -1.297438,
+    "type": "neighbourhood",
+    "fact": "Humans can buy weapons against changelings here."
+  },
+  {
+    "place": "SHAMBLEHURST BARN",
+    "lat": 50.930518,
+    "long": -1.297132,
+    "type": "pub",
+    "fact": "This place is frequented by unicorns."
+  },
+  {
+    "place": "Hook Park Estate",
+    "lat": 50.839915,
+    "long": -1.293753,
+    "type": "neighbourhood",
+    "fact": "Ghosts haunt this area during breezy summer nights."
+  },
+  {
+    "place": "Lower Swanwick",
+    "lat": 50.882583,
+    "long": -1.293463,
+    "type": "neighbourhood",
+    "fact": "The homes of golems are marked by violet doors."
+  },
+  {
+    "place": "Sarisbury",
+    "lat": 50.873338,
+    "long": -1.281523,
+    "type": "neighbourhood",
+    "fact": "Golems buy potion ingredients here."
+  },
+  {
+    "place": "PEAR TREE INN",
+    "lat": 50.928066,
+    "long": -1.28146,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by talking hedgehogs."
+  },
+  {
+    "place": "Fleetend",
+    "lat": 50.851025,
+    "long": -1.279734,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of warlocks."
+  },
+  {
+    "place": "VOYAGE CARE",
+    "lat": 50.925931,
+    "long": -1.276513,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by golems."
+  },
+  {
+    "place": "Durley",
+    "lat": 50.947045,
+    "long": -1.276473,
+    "type": "neighbourhood",
+    "fact": "The homes of creatures of the night are marked by orange doors."
+  },
+  {
+    "place": "Brewery Bar",
+    "lat": 50.917547,
+    "long": -1.271578,
+    "type": "pub",
+    "fact": "Ghosts and devils often meet here to gamble."
+  },
+  {
+    "place": "The Bugle",
+    "lat": 50.914478,
+    "long": -1.271256,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are zombies."
+  },
+  {
+    "place": "THE DOLPHIN",
+    "lat": 50.914478,
+    "long": -1.271256,
+    "type": "pub",
+    "fact": "Rumour has it that some of the staff are creatures of the darkness."
+  },
+  {
+    "place": "Swanwick",
+    "lat": 50.881719,
+    "long": -1.270022,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of druids."
+  },
+  {
+    "place": "The Farmers Home",
+    "lat": 50.941445,
+    "long": -1.266594,
+    "type": "pub",
+    "fact": "The locals' favourite drink in this place is famously made by changelings."
+  },
+  {
+    "place": "Abshot",
+    "lat": 50.847468,
+    "long": -1.265968,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local psychics."
+  },
+  {
+    "place": "Locks Heath",
+    "lat": 50.865373,
+    "long": -1.258909,
+    "type": "neighbourhood",
+    "fact": "The homes of pixies are marked by green doors."
+  },
+  {
+    "place": "Railway Hotel",
+    "lat": 50.915417,
+    "long": -1.257529,
+    "type": "pub",
+    "fact": "On Sundays this place is closed to all but chronomancers."
+  },
+  {
+    "place": "Titchfield Common",
+    "lat": 50.852051,
+    "long": -1.256989,
+    "type": "neighbourhood",
+    "fact": "At night tainted beings roam the streets here."
+  },
+  {
+    "place": "Lower Upham",
+    "lat": 50.973441,
+    "long": -1.255411,
+    "type": "neighbourhood",
+    "fact": "Ghosts haunt this area during rainy autumn nights."
+  },
+  {
+    "place": "Horse And Jockey",
+    "lat": 50.900029,
+    "long": -1.253066,
+    "type": "pub",
+    "fact": "Sometimes sorcerers can be found selling their services here."
+  },
+  {
+    "place": "Meon",
+    "lat": 50.828344,
+    "long": -1.248136,
+    "type": "neighbourhood",
+    "fact": "The homes of wraiths are marked by indigo doors."
+  },
+  {
+    "place": "Durley Street",
+    "lat": 50.956754,
+    "long": -1.247491,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with selkies here."
+  },
+  {
+    "place": "Curdridge",
+    "lat": 50.924146,
+    "long": -1.245882,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by banshees."
+  },
+  {
+    "place": "Segensworth",
+    "lat": 50.863488,
+    "long": -1.24544,
+    "type": "neighbourhood",
+    "fact": "At night sorcerers roam the streets here."
+  },
+  {
+    "place": "Titchfield Park",
+    "lat": 50.866185,
+    "long": -1.245397,
+    "type": "neighbourhood",
+    "fact": "In summer the humans here are often plagued by dreams of wraiths."
+  },
+  {
+    "place": "Titchfield",
+    "lat": 50.847015,
+    "long": -1.242865,
+    "type": "neighbourhood",
+    "fact": "In autumn the humans here are often plagued by dreams of talking spiders."
+  },
+  {
+    "place": "Little Posbrook",
+    "lat": 50.833315,
+    "long": -1.238116,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local wizards."
+  },
+  {
+    "place": "Row Ash",
+    "lat": 50.917501,
+    "long": -1.226785,
+    "type": "neighbourhood",
+    "fact": "Pact makers buy potion ingredients here."
+  },
+  {
+    "place": "Cricketers Inn",
+    "lat": 50.92929,
+    "long": -1.226658,
+    "type": "pub",
+    "fact": "The open mic nights put on by golems are extremely popular here."
+  },
+  {
+    "place": "Catisfield",
+    "lat": 50.852662,
+    "long": -1.226436,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of wraiths."
+  },
+  {
+    "place": "Bishop's Waltham",
+    "lat": 50.957256,
+    "long": -1.221142,
+    "type": "neighbourhood",
+    "fact": "This community is mainly made up of sorcerers."
+  },
+  {
+    "place": "Stubbington",
+    "lat": 50.822267,
+    "long": -1.216916,
+    "type": "neighbourhood",
+    "fact": "This neighbourhood is a hot spot for local crystal witches."
+  },
+  {
+    "place": "Tapnage",
+    "lat": 50.890374,
+    "long": -1.216457,
+    "type": "neighbourhood",
+    "fact": "A long time ago, this neighbourhood was founded by oracles."
+  },
+  {
+    "place": "Portsmouth Harbour",
+    "lat": 50.828056,
+    "long": -1.125556,
+    "type": "nature",
+    "fact": "Avoid this place, for it is a favourite amongst the trolls."
+  },
+  {
+    "place": "The Common",
+    "lat": "50.92662022060351, -1.4103964256675376",
+    "long": -0.871135,
+    "type": "neighbourhood",
+    "fact": "Human children can often be seen playing with spriggans here."
+  }
+]
